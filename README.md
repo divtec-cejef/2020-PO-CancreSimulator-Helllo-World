@@ -37,7 +37,7 @@
 2. Exécuter l'installeur
    
 
-# Exécution du projet
+# Exécution la solution
 
 ## Ajout du projet dans Unity Hub
 
