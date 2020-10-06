@@ -15,7 +15,11 @@
 1. Télécharger la version 2020.1.4f directement ici : https://unity3d.com/fr/get-unity/download?thank-you=update&download_nid=64096&os=Win
 2. Exécuter l'installeur
 
+## Installation du package Input System
 
+1. Ouvrir Unity
+2. Se rendre dans Windows -> Package Manager
+3. Installer Input System
 
 ## Téléchargement du projet
 
@@ -26,13 +30,11 @@
 4. Dans l'explorateur de fichier, décompresser cette archive.
 
 
-
 ## Installation d'un IDE
 
 1. Télécharger JetBrain Rider ici : https://www.jetbrains.com/fr-fr/rider/download/#section=windows
 
 2. Exécuter l'installeur
-
    
 
 # Exécution du projet
