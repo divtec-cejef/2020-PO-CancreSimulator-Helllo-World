@@ -10,7 +10,7 @@
 
 [Téléchargement du projet](#Téléchargement-du-projet)
 
-[Installation d'un IDE](#Installation-d'un-IDE)
+[Installation d'un IDE](#installation-dun-ide)
 
 [Exécution la solution](#Exécution-la-solution)
 
