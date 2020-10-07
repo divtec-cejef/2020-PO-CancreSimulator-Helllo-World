@@ -4,7 +4,7 @@
 
 [Installation de Unity Hub](#Installation-de-Unity-Hub)
 
-[Installation de Unity 2020.1.4f](#Installation-de-Unity-2020-1-4f)
+[Installation de Unity 2020.1.4f](#installation-de-unity-202014f)
 
 [Installation du package Input System](#Installation-du-package-Input-System)
 
