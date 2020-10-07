@@ -4,21 +4,21 @@
 
 [Installation de Unity Hub](#Installation-de-Unity-Hub)
 
-[Installation de Unity 2020.1.4f](#Installation-de-Unity-2020.1.4f)
+[Installation de Unity 2020.1.4f](#Installation-de-Unity-2020-1-4f)
 
-[Installation du package Input System](#création-de-la-base-de-données)
+[Installation du package Input System](#Installation-du-package-Input-System)
 
-[Téléchargement du projet](#création-du-modèle-task)
+[Téléchargement du projet](#Téléchargement-du-projet)
 
-[Installation d'un IDE](#création-des-routes-de-lapi)
+[Installation d'un IDE](#Installation-d'un-IDE)
 
-[Exécution la solution](#création-du-controller-taskcontroller)
+[Exécution la solution](#Exécution-la-solution)
 
-[Ajout du projet dans Unity Hub](#test-des-routes-avec-postman)
+[Ajout du projet dans Unity Hub](#Ajout-du-projet-dans-Unity-Hub)
 
-[Lancement](#test-des-routes-avec-postman)
+[Lancement](#Lancement)
 
-[Ouverture du projet dans Rider](#test-des-routes-avec-postman)
+[Ouverture du projet dans Rider](#Ouverture-du-projet-dans-Rider)
 
 
 # Prérequis
